@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a research scholar at Speech Processing Lab, IIIT Hyderabad. I am interested in speech processing, machine learning and deep learning. I am a fitness enthusiast and love to talk about nutrition.
+
 https://pramodnegi080.github.io/ 
 
 
